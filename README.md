@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm VanThang
 
-<!--
-**thangtran1/thangtran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** | Building scalable web apps 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+
+## 🛠️ Tech
+
+JavaScript | TypeScript | NextJS | React | Tailwind CSS | HeroUI | Node.js | Express | NestJS | MySQL | MongoDB | PostgreSQL | Git | Docker | Socket.IO ...
+
+
+
+---
+
+
+
+## 📂 Projects
+
+### 🛒 Web Apps
+- [Shop Ecommer TVT](https://github.com/thangtran1/Shop_Ecommer_TVT) – E-commerce Shop
+- [Room Booking](https://github.com/thangtran1/RoomBooking) – Room Booking System
+
+### 🖥️ Platforms
+- [Viec Lam IT](https://github.com/thangtran1/Viec_Lam_IT_FE) & [Backend](https://github.com/thangtran1/Viec_Lam_IT_BE) – IT Job Platform (socket.io)
+
+### 📝 Blogs
+- [GitHub Repo](https://github.com/thangtran1/Blog_V0) & [Website](https://vanthang.io.vn) – Personal IT Blog
+
+---
