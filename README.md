@@ -1,9 +1,4 @@
-# 👋 Hi, I'm VanThang
-
-**Software Engineer** | Building scalable web apps 🚀
-
-
-
+# 👋 Hi, I'm VanThang – Software Engineer 🚀
 ---
 
 
